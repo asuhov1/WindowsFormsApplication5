@@ -19,7 +19,7 @@ namespace WindowsFormsApplication5
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("aw");
+            MessageBox.Show("QASDWFCGH");
         }
     }
 }
